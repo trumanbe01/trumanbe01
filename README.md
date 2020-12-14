@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hey ✌️, it's Truman</h1>
+<h3 align="center">A passionate computing student from Toronto, Ontario, with a love for all things tech</h3>
 
-<!--
-**trumanbe01/trumanbe01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on:
 
-Here are some ideas to get you started:
+- A personal website to show off my projects
+  
+- Playing around with password encryption? 🔑
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- A top secret Discord bot 🤫
+
+🌱 I’m currently learning:
+
+- React (for making dope websites)
+  
+- Data structures (for grinding out LeetCode)
+  
+💻 Future adventures:
+
+- Jan. 15th, 2921: Hack the North
+  
+- Jan. 22nd, 2021: QHacks

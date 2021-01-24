@@ -17,6 +17,4 @@
   
 💻 Future adventures:
 
-- Jan. 15th, 2921: Hack the North
-  
-- Jan. 22nd, 2021: QHacks
+- Feb 19th, 2021: UofTHacks

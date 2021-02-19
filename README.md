@@ -7,7 +7,7 @@
   
 - Playing around with password encryption? 🔑
 
-- A top secret Discord bot 🤫
+- A top secret personal Discord bot 🤫
 
 🌱 I’m currently learning:
 
@@ -17,4 +17,6 @@
   
 💻 Future adventures:
 
-- Feb 19th, 2021: UofTHacks
+- Fixing up old projects
+
+- A new NLP Discord bot?

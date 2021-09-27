@@ -1,4 +1,4 @@
-# <p align="center">Hey ✌️, it's Truman</p>
+# <p align="center">Hey ✌️, it's Truman 😄</p>
 ## <p align="center">A passionate computing student from Toronto, Ontario, with a love for all things tech</p>
 
 ### ✏️ I’m currently busy with:
@@ -17,7 +17,7 @@
 
 * A personal website to show off my projects 💿
 
-🌱 I’m currently learning:
+### 🌱 I’m currently learning:
 
 * Flask and Flask-SQLAlchemy
 
@@ -25,6 +25,6 @@
 
 * Next.js as an extension to React
   
-💻 Future adventures:
+### 💻 Future adventures:
 
 * QHacks 2022?

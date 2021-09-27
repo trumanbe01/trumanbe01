@@ -1,22 +1,30 @@
-<h1 align="center">Hey ✌️, it's Truman</h1>
-<h3 align="center">A passionate computing student from Toronto, Ontario, with a love for all things tech</h3>
+# <p align="center">Hey ✌️, it's Truman</p>
+## <p align="center">A passionate computing student from Toronto, Ontario, with a love for all things tech</p>
 
-🔭 I’m currently working on:
+### ✏️ I’m currently busy with:
 
-- A personal website to show off my projects
-  
-- Playing around with password encryption? 🔑
+* Lots of school 🏫
 
-- A top secret personal Discord bot 🤫
+* Some fun extracurriculars include:
+
+  * Queen's Soft Robotics Team 🤖
+
+  * Queen's Technology and Media Association 📱
+
+  * Teaching Assistant 👨‍🏫
+
+* Practicing LeetCode for technical interviews ⌨️
+
+* A personal website to show off my projects 💿
 
 🌱 I’m currently learning:
 
-- React (for making dope websites)
-  
-- Data structures (for grinding out LeetCode)
+* Flask and Flask-SQLAlchemy
+
+* MERN stack
+
+* Next.js as an extension to React
   
 💻 Future adventures:
 
-- Fixing up old projects
-
-- A new NLP Discord bot?
+* QHacks 2022?

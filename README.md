@@ -7,13 +7,13 @@
 
 * Some fun extracurriculars include:
 
+  * Orientation Chair of Queen's Computing Orientation 😲
+
   * Queen's Soft Robotics Team 🤖
 
   * Queen's Technology and Media Association 📱
 
   * Teaching Assistant 👨‍🏫
-
-* Practicing LeetCode for technical interviews ⌨️
 
 * A personal website to show off my projects 💿
 
@@ -28,3 +28,5 @@
 ### 💻 Future adventures:
 
 * QHacks 2022?
+
+* Incoming Summer 2022 SDE Intern at Amazon

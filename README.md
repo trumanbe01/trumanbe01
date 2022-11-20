@@ -7,26 +7,18 @@
 
 * Some fun extracurriculars include:
 
-  * Orientation Chair of Queen's Computing Orientation 😲
-
-  * Queen's Soft Robotics Team 🤖
-
-  * Queen's Technology and Media Association 📱
-
   * Teaching Assistant 👨‍🏫
 
 * A personal website to show off my projects 💿
 
+* Capstone project 📚
+
 ### 🌱 I’m currently learning:
 
-* Flask and Flask-SQLAlchemy
-
-* MERN stack
-
-* Next.js as an extension to React
+* Formal methods
   
 ### 💻 Future adventures:
 
-* QHacks 2022?
+* QHacks 2023
 
-* Incoming Summer 2022 SDE Intern at Amazon
+* Incoming SDE I at Amazon

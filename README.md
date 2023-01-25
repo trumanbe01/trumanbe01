@@ -8,6 +8,7 @@
 * Some fun extracurriculars include:
 
   * Teaching Assistant 👨‍🏫
+  * Mentor 👨‍🏫
 
 * A personal website to show off my projects 💿
 
@@ -15,10 +16,8 @@
 
 ### 🌱 I’m currently learning:
 
-* Formal methods
+* Compilers 💾
   
 ### 💻 Future adventures:
-
-* QHacks 2023
 
 * Incoming SDE I at Amazon

@@ -1,23 +1,14 @@
 # <p align="center">Hey ✌️, it's Truman 😄</p>
-## <p align="center">A passionate computing student from Toronto, Ontario, with a love for all things tech</p>
+## <p align="center">A passionate computing grad from Toronto, Ontario, with a love for all things tech</p>
 
 ### ✏️ I’m currently busy with:
 
-* Lots of school 🏫
-
-* Some fun extracurriculars include:
-
-  * Teaching Assistant 👨‍🏫
-  * Mentor 👨‍🏫
-
-* A personal website to show off my projects 💿
-
-* Capstone project 📚
+* Incoming SDE I at Amazon 🚚
 
 ### 🌱 I’m currently learning:
 
-* Compilers 💾
+* Nothing in particular 😅
   
 ### 💻 Future adventures:
 
-* Incoming SDE I at Amazon
+* Mentorship 👨‍🏫

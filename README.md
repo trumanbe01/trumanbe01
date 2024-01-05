@@ -3,12 +3,15 @@
 
 ### ✏️ I’m currently busy with:
 
-* Incoming SDE I at Amazon 🚚
+* SDE I in Amazon Fulfillment Technologies (AFT) 🏭
+* Personal website 🕸
 
 ### 🌱 I’m currently learning:
 
-* Nothing in particular 😅
+* System design 🖥
+* AWS CDK ⌨
   
 ### 💻 Future adventures:
 
+* More schooling(?) 🎓
 * Mentorship 👨‍🏫
